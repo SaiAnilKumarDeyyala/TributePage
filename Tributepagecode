@@ -1,0 +1,48 @@
+
+<body id='main'>
+  
+  <header>
+    <section id="title">
+    <center>  <h1>Dr. A.P.J Abdul Kalam</h1> 
+      <h6 id="tribute-info">The Missile Man Of India</h6>
+      <div id="img-div">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKAn-sdC4H-3UsG02O8a5yYDIjS2kzIWYXgQ&usqp=CAU" width = "500" height = "" id="image"/ alt="Dr. A.P.J Abdul Kalam Motivating students"> <figcaption id = "img-caption" >Dr.A.P.J. Abdul Kalam giving motivational speech to children to reach their goals</figcaption>   </img> </center>
+ 
+      </div>
+    </section>
+  </header>
+  
+  <main>
+    <div id="main-content">
+      <article id="time-line">
+        <h2>Here's a time line of Dr. A.P.J.Abdul Kalam's life:</h2>
+        <ul id="time-line-list" class="text-content">
+          <li><time datetime=" 1931"> 1931</time> - born in Rameswaram, Tamil Nadu</li>
+          <li><time datetime="1954">1954</time> - Graduates in Physics from Saint Joseph's College, Tiruchirappalli</li>
+          <li><time datetime="1960">1960</time> - Gains degree in Aeronautical Engineering from Madras Institute of Technology"</li>
+          <li><time datetime="1969">1969</time> - Transferred to ISRO from the DRDO.</li>
+          <li><time datetime="1980">1980</time> - India enters the space club by putting the Rohini satellite in the near earth orbit with the first indigenous Satellite Launch Vehicle (SLV-III), developed under the stewardship of Dr. Kalam.</li>
+          <li><time datetime="1980s - 1990s">1980s - 1990s</time> -  As the chief of the Integrated Guided Missile Development Programme, he was responsible for the development and operationalisation of AGNI and PRITHVI Missiles.</li>
+          <li><time datetime="1992-99">1992-99</time> - works as Chief Scientific Advisor to the PM and Secretary of the DRDO. </li>
+          <li><time datetime="1998">1998</time> - India conducts the Pokhran II nuclear tests in May with Dr. Kalam as the chief project coordinator. </li>
+          <li><time datetime="1999-2001">1999-2001</time> - Principal Scientific Advisor to the Government of India</li>
+          <li><time datetime="2002-2007">2002-2007</time> - President of India , A.P.J. Abdul Kalam</li>
+          <li><time datetime="2015">2015</time> - The 11th President of India, widely acclaimed as the "people's President", passed away</li>
+            </ul> 
+      </article>
+      <hr/>
+      <article id="tribute" class="text-content">
+        <p><em>"Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck."</em></p>
+        <p>-- Dr.A.P.J. Abdul Kalam</p>
+      </article>
+      <hr/>
+    </div>
+  </main>
+  
+  <footer>
+    <div id="footer-content">
+      <secion>If you have time, you should read more about this incredible human being on his <a href="https://en.m.wikipedia.org/wiki/A._P._J._Abdul_Kalam" id="tribute-link" target="_blank">Wikipedia entry</a>.
+        <p style="font-family: roboto; text-align: right; color:rgb(200,100,500);">by Sai Anil Kumar Deyyala</p>
+      </section>
+    </div>
+  </footer>
